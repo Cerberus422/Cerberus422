@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm learning .NET Backend Development 👋
 
-<!--
-**Cerberus422/Cerberus422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student focused on backend development with C# and ASP.NET Core.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies I'm Learning
+- C#
+- .NET / ASP.NET Core Web API
+- Entity Framework Core
+- SQL Server
+- Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+I build projects to practise backend development, improve my coding skills, and learn how to design and build APIs.
+
+Check out my repositories to follow my progress.
+
+### 🎯 My Goal
+To become a junior .NET backend developer by building practical projects and strengthening my understanding of backend development.
+
